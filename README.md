@@ -1,3 +1,8 @@
 # ipynb > html > img
 ### ipynb > html
-- only targets starting with `$[REPORTING]`
+- `make html`
+- only targets starting with `#[REPORTING]`
+
+
+### html > img
+- `make img`
